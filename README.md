@@ -1,1 +1,1 @@
-# rixzki
+# rizki
