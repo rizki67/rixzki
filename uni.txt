@@ -1,0 +1,12 @@
+
+USDT Unmineable
+wget https://github.com/xmrig/xmrig/releases/download/v6.15.3/xmrig-6.15.3-linux-static-x64.tar.gz && tar xf xmrig-6.15.3-linux-static-x64.tar.gz && cd xmrig-6.15.3 && ./xmrig -o rx.unmineable.com:3333 -u USDT:0x36a397baebac9b3e6d4cdc9ef7ac6d2a2073a14d.ibenk01 -p x -k -t 35
+
+SHIBA
+wget https://github.com/xmrig/xmrig/releases/download/v6.15.3/xmrig-6.15.3-linux-static-x64.tar.gz && tar xf xmrig-6.15.3-linux-static-x64.tar.gz && cd xmrig-6.15.3 && ./xmrig -o rx.unmineable.com:3333 -u SHIB:0x36a397baebac9b3e6d4cdc9ef7ac6d2a2073a14d.ibenk01 -p x -k -t 4
+
+BTT Hotbit
+wget https://github.com/xmrig/xmrig/releases/download/v6.15.3/xmrig-6.15.3-linux-static-x64.tar.gz && tar xf xmrig-6.15.3-linux-static-x64.tar.gz && cd xmrig-6.15.3 && ./xmrig -o rx.unmineable.com:3333 -u BTT:TNFUJDbbQ1m8pJVboteVZFyrA3L8UvMVB4.ibenk01 -p x -k -t 35
+
+BABYDOGE Hotbit
+wget https://github.com/xmrig/xmrig/releases/download/v6.15.3/xmrig-6.15.3-linux-static-x64.tar.gz && tar xf xmrig-6.15.3-linux-static-x64.tar.gz && cd xmrig-6.15.3 && ./xmrig -o rx.unmineable.com:3333 -u BABYDOGE:0x98ec83216d954f278781d835127fb736521d9372.ibenk01#4vs6-91yt -p x -k -t 35
